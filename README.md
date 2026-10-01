@@ -105,8 +105,7 @@ Software & AI
     ├─
     
     
-    
-    # 🤝 Let's Connect
+**# 🤝 Let's Connect**
 
 I'm always interested in connecting with students, engineers, developers, educators, researchers and people working on interesting technology projects.
 
